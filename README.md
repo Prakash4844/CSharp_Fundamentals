@@ -1,2 +1,2 @@
 # CSharp_Fundamentals
-This Repository contains Code which i wrote during following C# Fundamental Course by Microsoft/DevU
+ This Repository contains code which i wrote while following Microsoft/DevU's C# Fundamental Course.
