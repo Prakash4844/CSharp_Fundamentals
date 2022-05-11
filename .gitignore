@@ -136,3 +136,5 @@ _NCrunch*
 .vscode/tasks.json
 .vscode/launch.json
 C\#_Fundamentals.csproj
+*.json
+*.csproj
