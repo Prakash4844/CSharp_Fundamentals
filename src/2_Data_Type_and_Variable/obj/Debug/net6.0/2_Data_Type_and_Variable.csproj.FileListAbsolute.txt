@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\bin\Debug\net6.0\2_Data_Type_and_Variable.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\bin\Debug\net6.0\2_Data_Type_and_Variable.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\bin\Debug\net6.0\2_Data_Type_and_Variable.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\bin\Debug\net6.0\2_Data_Type_and_Variable.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\bin\Debug\net6.0\ref\2_Data_Type_and_Variable.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\bin\Debug\net6.0\2_Data_Type_and_Variable.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\ref\2_Data_Type_and_Variable.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\2_Data_Type_and_Variable\obj\Debug\net6.0\2_Data_Type_and_Variable.genruntimeconfig.cache

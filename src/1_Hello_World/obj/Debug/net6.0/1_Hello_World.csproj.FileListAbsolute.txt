@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\bin\Debug\net6.0\1_Hello_World.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\bin\Debug\net6.0\1_Hello_World.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\bin\Debug\net6.0\1_Hello_World.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\bin\Debug\net6.0\1_Hello_World.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\bin\Debug\net6.0\ref\1_Hello_World.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\bin\Debug\net6.0\1_Hello_World.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\ref\1_Hello_World.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\1_Hello_World\obj\Debug\net6.0\1_Hello_World.genruntimeconfig.cache
