@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3_If_elseif_else_Statements/1.0.0": {
+        "runtime": {
+          "3_If_elseif_else_Statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_If_elseif_else_Statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

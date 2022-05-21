@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\bin\Debug\net6.0\3_If_elseif_else_Statements.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\bin\Debug\net6.0\3_If_elseif_else_Statements.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\bin\Debug\net6.0\3_If_elseif_else_Statements.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\bin\Debug\net6.0\3_If_elseif_else_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\bin\Debug\net6.0\ref\3_If_elseif_else_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\bin\Debug\net6.0\3_If_elseif_else_Statements.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\ref\3_If_elseif_else_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\3_If_elseif_else_Statements\obj\Debug\net6.0\3_If_elseif_else_Statements.genruntimeconfig.cache
