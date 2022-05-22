@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\bin\Debug\net6.0\4_Ternary_Operator.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\bin\Debug\net6.0\4_Ternary_Operator.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\bin\Debug\net6.0\4_Ternary_Operator.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\bin\Debug\net6.0\4_Ternary_Operator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\bin\Debug\net6.0\ref\4_Ternary_Operator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\bin\Debug\net6.0\4_Ternary_Operator.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\ref\4_Ternary_Operator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\4_Ternary_Operator\obj\Debug\net6.0\4_Ternary_Operator.genruntimeconfig.cache

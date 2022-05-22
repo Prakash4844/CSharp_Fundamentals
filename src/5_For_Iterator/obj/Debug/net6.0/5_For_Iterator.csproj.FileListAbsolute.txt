@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\bin\Debug\net6.0\5_For_Iterator.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\bin\Debug\net6.0\5_For_Iterator.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\bin\Debug\net6.0\5_For_Iterator.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\bin\Debug\net6.0\5_For_Iterator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\bin\Debug\net6.0\ref\5_For_Iterator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\bin\Debug\net6.0\5_For_Iterator.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\ref\5_For_Iterator.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\5_For_Iterator\obj\Debug\net6.0\5_For_Iterator.genruntimeconfig.cache

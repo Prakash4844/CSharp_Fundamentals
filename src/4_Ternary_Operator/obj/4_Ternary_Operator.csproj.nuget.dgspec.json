@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Zaphkil!\\Documents\\VS Code\\C#\\CSharp_Fundamentals\\src\\4_Ternary_Operator\\4_Ternary_Operator.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Zaphkil!\\Documents\\VS Code\\C#\\CSharp_Fundamentals\\src\\4_Ternary_Operator\\4_Ternary_Operator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Zaphkil!\\Documents\\VS Code\\C#\\CSharp_Fundamentals\\src\\4_Ternary_Operator\\4_Ternary_Operator.csproj",
+        "projectName": "4_Ternary_Operator",
+        "projectPath": "D:\\Users\\Zaphkil!\\Documents\\VS Code\\C#\\CSharp_Fundamentals\\src\\4_Ternary_Operator\\4_Ternary_Operator.csproj",
+        "packagesPath": "C:\\Users\\Zaphkil!\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Zaphkil!\\Documents\\VS Code\\C#\\CSharp_Fundamentals\\src\\4_Ternary_Operator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zaphkil!\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
