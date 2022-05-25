@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\bin\Debug\net6.0\6_Arrays.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\bin\Debug\net6.0\6_Arrays.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\bin\Debug\net6.0\6_Arrays.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\bin\Debug\net6.0\6_Arrays.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\bin\Debug\net6.0\ref\6_Arrays.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\bin\Debug\net6.0\6_Arrays.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\ref\6_Arrays.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays\obj\Debug\net6.0\6_Arrays.genruntimeconfig.cache

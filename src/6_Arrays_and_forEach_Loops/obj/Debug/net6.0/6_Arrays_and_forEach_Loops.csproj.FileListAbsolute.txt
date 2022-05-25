@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\bin\Debug\net6.0\6_Arrays_and_forEach_Loops.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\bin\Debug\net6.0\6_Arrays_and_forEach_Loops.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\bin\Debug\net6.0\6_Arrays_and_forEach_Loops.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\bin\Debug\net6.0\6_Arrays_and_forEach_Loops.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\bin\Debug\net6.0\ref\6_Arrays_and_forEach_Loops.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\bin\Debug\net6.0\6_Arrays_and_forEach_Loops.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\ref\6_Arrays_and_forEach_Loops.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\6_Arrays_and_forEach_Loops\obj\Debug\net6.0\6_Arrays_and_forEach_Loops.genruntimeconfig.cache

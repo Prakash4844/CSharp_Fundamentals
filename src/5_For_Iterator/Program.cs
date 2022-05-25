@@ -10,7 +10,7 @@ namespace for_iterators
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)//; seperate each statemnent
+            for (int i = 0; i < 10; i++)//; seperate each statement
 
             //Here int i = 0 means we are Declaring and intializing a variable i which have a value 0
             //after that we have i<10 which means this loop will iterate till i is less than that of value 10.
