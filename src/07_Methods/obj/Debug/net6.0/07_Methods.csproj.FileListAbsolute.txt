@@ -1,0 +1,15 @@
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/bin/Debug/net6.0/07_Methods
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/bin/Debug/net6.0/07_Methods.deps.json
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/bin/Debug/net6.0/07_Methods.runtimeconfig.json
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/bin/Debug/net6.0/07_Methods.dll
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/bin/Debug/net6.0/ref/07_Methods.dll
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/bin/Debug/net6.0/07_Methods.pdb
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.csproj.AssemblyReference.cache
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.AssemblyInfoInputs.cache
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.AssemblyInfo.cs
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.csproj.CoreCompileInputs.cache
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.dll
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/ref/07_Methods.dll
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.pdb
+/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/obj/Debug/net6.0/07_Methods.genruntimeconfig.cache

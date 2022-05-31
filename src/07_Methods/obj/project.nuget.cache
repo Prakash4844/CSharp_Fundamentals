@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vf4SYTtRpCWADVXYC9WDsFIDre5OeEX1ngidImUPWXouEyt9GuLzH3cTDYGsIScbYgsIyzAWnyg8qLbNM+oa0g==",
+  "success": true,
+  "projectFilePath": "/home/zaphkill/VSCodium/C#/CSharp_Fundamentals/src/07_Methods/07_Methods.csproj",
+  "expectedPackageFiles": [
+    "/home/zaphkill/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
