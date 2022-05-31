@@ -21,3 +21,5 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 
 6_Arrays_and_forEach_Loops - ✅
 
+7_Methods - ✅
+
