@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\bin\Debug\net6.0\10_strings.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\bin\Debug\net6.0\10_strings.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\bin\Debug\net6.0\10_strings.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\bin\Debug\net6.0\10_strings.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\bin\Debug\net6.0\ref\10_strings.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\bin\Debug\net6.0\10_strings.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\ref\10_strings.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\10_strings\obj\Debug\net6.0\10_strings.genruntimeconfig.cache
