@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\bin\Debug\net6.0\9_Date_and_Time.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\bin\Debug\net6.0\9_Date_and_Time.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\bin\Debug\net6.0\9_Date_and_Time.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\bin\Debug\net6.0\9_Date_and_Time.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\bin\Debug\net6.0\ref\9_Date_and_Time.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\bin\Debug\net6.0\9_Date_and_Time.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\ref\9_Date_and_Time.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\9_Date_and_Time\obj\Debug\net6.0\9_Date_and_Time.genruntimeconfig.cache
