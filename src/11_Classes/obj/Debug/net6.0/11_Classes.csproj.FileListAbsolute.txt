@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\bin\Debug\net6.0\11_Classes.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\bin\Debug\net6.0\11_Classes.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\bin\Debug\net6.0\11_Classes.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\bin\Debug\net6.0\11_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\bin\Debug\net6.0\ref\11_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\bin\Debug\net6.0\11_Classes.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\ref\11_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\11_Classes\obj\Debug\net6.0\11_Classes.genruntimeconfig.cache
