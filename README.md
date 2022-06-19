@@ -29,3 +29,5 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 
 10_Strings - ✅
 
+11_Classes - ✅
+
