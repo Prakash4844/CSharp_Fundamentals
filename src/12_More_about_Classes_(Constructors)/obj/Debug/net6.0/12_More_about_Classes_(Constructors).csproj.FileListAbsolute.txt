@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\bin\Debug\net6.0\12_More_about_Classes_(Constructors).exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\bin\Debug\net6.0\12_More_about_Classes_(Constructors).deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\bin\Debug\net6.0\12_More_about_Classes_(Constructors).runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\bin\Debug\net6.0\12_More_about_Classes_(Constructors).dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\bin\Debug\net6.0\ref\12_More_about_Classes_(Constructors).dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\bin\Debug\net6.0\12_More_about_Classes_(Constructors).pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\ref\12_More_about_Classes_(Constructors).dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes_(Constructors)\obj\Debug\net6.0\12_More_about_Classes_(Constructors).genruntimeconfig.cache

@@ -31,3 +31,6 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 
 11_Classes - ✅
 
+12_More_about_Classes - ✅
+
+12_More_about_Classes_(Constructors) - ✅

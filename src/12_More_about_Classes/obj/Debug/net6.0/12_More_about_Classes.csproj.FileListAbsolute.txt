@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\bin\Debug\net6.0\12_More_about_Classes.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\bin\Debug\net6.0\12_More_about_Classes.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\bin\Debug\net6.0\12_More_about_Classes.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\bin\Debug\net6.0\12_More_about_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\bin\Debug\net6.0\ref\12_More_about_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\bin\Debug\net6.0\12_More_about_Classes.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\ref\12_More_about_Classes.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\12_More_about_Classes\obj\Debug\net6.0\12_More_about_Classes.genruntimeconfig.cache
