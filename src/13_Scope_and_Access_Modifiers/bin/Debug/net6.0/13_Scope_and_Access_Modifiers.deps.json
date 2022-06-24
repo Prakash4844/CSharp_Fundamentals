@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "13_Scope_and_Access_Modifiers/1.0.0": {
+        "runtime": {
+          "13_Scope_and_Access_Modifiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13_Scope_and_Access_Modifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\bin\Debug\net6.0\13_Scope_and_Access_Modifiers.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\bin\Debug\net6.0\13_Scope_and_Access_Modifiers.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\bin\Debug\net6.0\13_Scope_and_Access_Modifiers.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\bin\Debug\net6.0\13_Scope_and_Access_Modifiers.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\bin\Debug\net6.0\ref\13_Scope_and_Access_Modifiers.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\bin\Debug\net6.0\13_Scope_and_Access_Modifiers.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\ref\13_Scope_and_Access_Modifiers.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\CSharp_Fundamentals\src\13_Scope_and_Access_Modifiers\obj\Debug\net6.0\13_Scope_and_Access_Modifiers.genruntimeconfig.cache
