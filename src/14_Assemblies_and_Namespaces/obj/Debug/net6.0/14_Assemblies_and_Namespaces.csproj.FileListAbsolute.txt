@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\bin\Debug\net6.0\14_Assemblies_and_Namespaces.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\bin\Debug\net6.0\14_Assemblies_and_Namespaces.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\bin\Debug\net6.0\14_Assemblies_and_Namespaces.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\bin\Debug\net6.0\14_Assemblies_and_Namespaces.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\bin\Debug\net6.0\ref\14_Assemblies_and_Namespaces.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\bin\Debug\net6.0\14_Assemblies_and_Namespaces.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\ref\14_Assemblies_and_Namespaces.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\14_Assemblies_and_Namespaces\obj\Debug\net6.0\14_Assemblies_and_Namespaces.genruntimeconfig.cache
