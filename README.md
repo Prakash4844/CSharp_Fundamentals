@@ -36,3 +36,5 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 12_More_about_Classes_(Constructors) - ✅
 
 13_Scope_and_Access_Modifiers - ✅
+
+**We are switching from VSCode and Dotnet SDK 6.0 to Visual Studio Community with C# support.**
