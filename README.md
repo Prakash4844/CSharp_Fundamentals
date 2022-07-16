@@ -39,4 +39,10 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 
 14_Assemblies_and_Namespaces - ✅
 
-**We are switching from VSCode and Dotnet SDK 6.0 to Visual Studio Community with C# support.**
+## Switching from VSCode and .Net SDK 6.0 to Visual Studio Community with C# support.
+
+15_Creating_and_Adding_Assemblies - ✅
+
+15_Library - ✅
+
+15_User_Library_and_Client - ✅

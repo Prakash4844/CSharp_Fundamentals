@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "15_Creating_and_Adding_Assemblies/1.0.0": {
+        "dependencies": {
+          "MyCodeLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "15_Creating_and_Adding_Assemblies.dll": {}
+        }
+      },
+      "MyCodeLibrary/1.0.0.0": {
+        "runtime": {
+          "MyCodeLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15_Creating_and_Adding_Assemblies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCodeLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\bin\Debug\net6.0\ScrapeLib.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\bin\Debug\net6.0\ScrapeLib.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\bin\Debug\net6.0\ref\ScrapeLib.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\bin\Debug\net6.0\ScrapeLib.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ScrapeLib.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ScrapeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ScrapeLib.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ScrapeLib.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ScrapeLib.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ScrapeLib.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ref\ScrapeLib.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\15_User_Library_and_Client\ScrapeLib\obj\Debug\net6.0\ScrapeLib.pdb

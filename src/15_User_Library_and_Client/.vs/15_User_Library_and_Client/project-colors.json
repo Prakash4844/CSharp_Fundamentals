@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a04f7415-157f-4117-8037-0ad9156fb3ec": {
+      "ProjectGuid": "a04f7415-157f-4117-8037-0ad9156fb3ec",
+      "DisplayName": "Scrape_Client",
+      "ColorIndex": 0
+    },
+    "cb8f1412-0af7-4e81-ad4e-c24cd217e1ef": {
+      "ProjectGuid": "cb8f1412-0af7-4e81-ad4e-c24cd217e1ef",
+      "DisplayName": "ScrapeLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

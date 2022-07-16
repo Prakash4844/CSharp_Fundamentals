@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65b31254-15b3-4c2f-a5fc-d30322d2741c": {
+      "ProjectGuid": "65b31254-15b3-4c2f-a5fc-d30322d2741c",
+      "DisplayName": "MyCodeLibrary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

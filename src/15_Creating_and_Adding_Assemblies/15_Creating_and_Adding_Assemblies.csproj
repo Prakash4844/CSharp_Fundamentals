@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_15_Creating_and_Adding_Assemblies</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyCodeLibrary">
+      <HintPath>..\15_Library\MyLibrary\MyCodeLibrary\bin\Release\net6.0\MyCodeLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
