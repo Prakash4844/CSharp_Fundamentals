@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\bin\Debug\net6.0\Collections.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\bin\Debug\net6.0\Collections.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\bin\Debug\net6.0\Collections.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\bin\Debug\net6.0\ref\Collections.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\bin\Debug\net6.0\Collections.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\ref\Collections.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\16_Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache
