@@ -41,7 +41,7 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 
 ## Switching from VSCode and .Net SDK 6.0 to Visual Studio Community with C# support.
 
-15_Creating_and_Adding_Assemblies - ✅
+15_Creating_and_Adding_Reference_to_Assemblies - ✅
 
 15_Library - ✅
 
