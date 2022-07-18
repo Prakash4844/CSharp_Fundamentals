@@ -48,3 +48,5 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 15_User_Library_and_Client - ✅
 
 16_Collections - ✅
+
+17_LINQ - ✅
