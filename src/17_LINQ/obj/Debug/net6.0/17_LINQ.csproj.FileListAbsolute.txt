@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\bin\Debug\net6.0\17_LINQ.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\bin\Debug\net6.0\17_LINQ.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\bin\Debug\net6.0\17_LINQ.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\bin\Debug\net6.0\17_LINQ.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\bin\Debug\net6.0\ref\17_LINQ.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\bin\Debug\net6.0\17_LINQ.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\ref\17_LINQ.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\17_LINQ\obj\Debug\net6.0\17_LINQ.genruntimeconfig.cache
