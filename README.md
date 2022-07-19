@@ -52,3 +52,5 @@ This Repository contains code which i wrote while following Microsoft/DevU's C# 
 16_Collections - ✅
 
 17_LINQ - ✅
+
+18_Enumerations_and_Switch_Statements - ✅

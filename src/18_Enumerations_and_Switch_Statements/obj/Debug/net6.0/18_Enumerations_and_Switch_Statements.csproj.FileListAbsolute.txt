@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\bin\Debug\net6.0\18_Enumerations_and_Switch_Statements.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\bin\Debug\net6.0\18_Enumerations_and_Switch_Statements.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\bin\Debug\net6.0\18_Enumerations_and_Switch_Statements.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\bin\Debug\net6.0\18_Enumerations_and_Switch_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\bin\Debug\net6.0\ref\18_Enumerations_and_Switch_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\bin\Debug\net6.0\18_Enumerations_and_Switch_Statements.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\ref\18_Enumerations_and_Switch_Statements.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\18_Enumerations_and_Switch_Statements\obj\Debug\net6.0\18_Enumerations_and_Switch_Statements.genruntimeconfig.cache
