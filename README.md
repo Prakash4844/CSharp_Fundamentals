@@ -2,7 +2,9 @@
 
 This Repository contains code which i wrote while following Microsoft/DevU's C# Fundamental Course.
 
-## Course Link: [C# Fundamentals for Absolute Beginners](https://docs.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/ "C# Fundamentals for Absolute Beginners")
+## Course Link Microsoft Site: [C# Fundamentals for Absolute Beginners](https://docs.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/ "C# Fundamentals for Absolute Beginners")
+
+## Course Link YouTube: [C# Fundamentals for Absolute Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU "C# Fundamentals for Absolute Beginners")
 
 
 ## Chapter Video status
