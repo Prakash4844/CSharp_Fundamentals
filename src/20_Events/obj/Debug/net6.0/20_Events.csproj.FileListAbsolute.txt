@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\bin\Debug\net6.0\20_Events.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\bin\Debug\net6.0\20_Events.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\bin\Debug\net6.0\20_Events.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\bin\Debug\net6.0\20_Events.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\bin\Debug\net6.0\ref\20_Events.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\bin\Debug\net6.0\20_Events.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\ref\20_Events.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\20_Events\obj\Debug\net6.0\20_Events.genruntimeconfig.cache
