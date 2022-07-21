@@ -1,0 +1,15 @@
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\bin\Release\net6.0\19_Exception_Handling.exe
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\bin\Release\net6.0\19_Exception_Handling.deps.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\bin\Release\net6.0\19_Exception_Handling.runtimeconfig.json
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\bin\Release\net6.0\19_Exception_Handling.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\bin\Release\net6.0\ref\19_Exception_Handling.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\bin\Release\net6.0\19_Exception_Handling.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.csproj.AssemblyReference.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.AssemblyInfoInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.AssemblyInfo.cs
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.csproj.CoreCompileInputs.cache
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\ref\19_Exception_Handling.dll
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.pdb
+D:\Users\Zaphkil!\Documents\VS Code\C#\NEWER\CSharp_Fundamentals\src\19_Exception_Handling\obj\Release\net6.0\19_Exception_Handling.genruntimeconfig.cache
