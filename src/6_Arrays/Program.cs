@@ -29,7 +29,7 @@ namespace Arrays
 
             //Better way to Define array;
 
-            int[] number = new int[] {4,8,12,16,20,24,28}; //Simpler way to define array: still complicated then C/C++
+            int[] number = new int[] {4,8,12,16,20,24,28}; //Simpler way to define array: still complicated than C/C++
             string[] nameOfLoves = new string[] {"Dani Danials", "Emily Agnes", "Leah Gotti", "Manique Alexander", "Young Devotion"}; //A string array.
 
             for (int i = 0; i < nameOfLoves.Length; i++)        
