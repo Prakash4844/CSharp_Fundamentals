@@ -10,7 +10,7 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            int[] number = new int[] {4,8,12,16,20,24,28}; //Simpler way to define array: still harder then C/C++
+            int[] number = new int[] {4,8,12,16,20,24,28}; //Simpler way to define array: still harder than C/C++
 
             string[] nameOfLoves = new string[] {"Dani Danials", "Emily Agnes", "Leah Gotti", "Manique Alexander", "Young Devotion"}; //A string array."};
 
